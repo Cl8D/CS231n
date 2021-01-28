@@ -20,6 +20,12 @@
 |:Lecture 13:|:Generative Models:|:[📖](https://blog.naver.com/ljwon77_/222221257434):|
  ***
  
+ |제목|내용|설명|
+|------|---|---|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
+ 
  ### Assignment 정리💫
  #### Assignment1 Q1 KNN : [Click](https://blog.naver.com/ljwon77_/222139197263)
  #### Assignment1 Q2 SVM : [Click](https://blog.naver.com/ljwon77_/222139728144)
