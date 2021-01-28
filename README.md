@@ -2,7 +2,6 @@
 
  - CS231n Spring 2017 assignment 입니다!
  
- <br />
  - 강의 정리✨
  #### Lecture 1 - Introduction : [Click](https://blog.naver.com/ljwon77_/222032524072)
  #### Lecture 2 - Image Classification : [Click](https://blog.naver.com/ljwon77_/222037832826)
@@ -18,7 +17,6 @@
  #### Lecture 12 - Visualizing and Understanding : [Click](https://blog.naver.com/ljwon77_/222220046525)
  #### Lecture 13 - Generative Models : [Click](https://blog.naver.com/ljwon77_/222221257434)
  
- <br />
  - Assignment 정리💫
  #### Assignment1 Q1 KNN : [Click](https://blog.naver.com/ljwon77_/222139197263)
  #### Assignment1 Q2 SVM : [Click](https://blog.naver.com/ljwon77_/222139728144)
