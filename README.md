@@ -9,7 +9,7 @@
 |Lecture 1|Introduction|[📖](https://blog.naver.com/ljwon77_/222032524072)|
 |Lecture 2|Image Classification|[📖](https://blog.naver.com/ljwon77_/222037832826)|
 |Lecture 3|Loss function and Optimization|[📖](https://blog.naver.com/ljwon77_/222046271960)|
-|Lecture 4|Introduction to Neural Networks|[📖](https://blog.naver.com/ljwon77_/222052114083:|
+|Lecture 4|Introduction to Neural Networks|[📖](https://blog.naver.com/ljwon77_/222052114083)|
 |Lecture 5|Convolutional Neural Networks|[📖](https://blog.naver.com/ljwon77_/222062160370)|
 |Lecture 6|Training Neural Networks 1|[📖](https://blog.naver.com/ljwon77_/222070385083)|
 |Lecture 7|Training Neural Networks 2|[📖](https://blog.naver.com/ljwon77_/222073819029)|
