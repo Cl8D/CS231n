@@ -3,7 +3,7 @@
  - CS231n Spring 2017 assignment 입니다!
  
  
- - 강의 정리✨
+ - __강의 정리✨__
  #### Lecture 1 - Introduction : [Click](https://blog.naver.com/ljwon77_/222032524072)
  #### Lecture 2 - Image Classification : [Click](https://blog.naver.com/ljwon77_/222037832826)
  #### Lecture 3 - Loss function and Optimization : [Click](https://blog.naver.com/ljwon77_/222046271960)
@@ -19,7 +19,7 @@
  #### Lecture 13 - Generative Models : [Click](https://blog.naver.com/ljwon77_/222221257434)
  
  
- - Assignment 정리💫
+ - __Assignment 정리💫__
  #### Assignment1 Q1 KNN : [Click](https://blog.naver.com/ljwon77_/222139197263)
  #### Assignment1 Q2 SVM : [Click](https://blog.naver.com/ljwon77_/222139728144)
  #### Assignment1 Q3 Softmax : [Click](https://blog.naver.com/ljwon77_/222139994988)
