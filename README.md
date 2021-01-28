@@ -26,8 +26,8 @@
 |__Assignment__|__Name__|__Note__|
 |:---:|:---:|:---:|
 |Assignment1|Q1 KNN|[📝](https://blog.naver.com/ljwon77_/222139197263)|
-|Assignment1|Q2 SVM|[📝](https://blog.naver.com/ljwon77_/222139728144)|
-|Assignment1|Q3 Softmax|[📝](https://blog.naver.com/ljwon77_/222139994988)|
-|Assignment1|Q4 two layer net|[📝](https://blog.naver.com/ljwon77_/222140068840)|
-|Assignment1|Q5 feature|[📝](https://blog.naver.com/ljwon77_/222140131404)|
+|  |Q2 SVM|[📝](https://blog.naver.com/ljwon77_/222139728144)|
+|  |Q3 Softmax|[📝](https://blog.naver.com/ljwon77_/222139994988)|
+|  |Q4 two layer net|[📝](https://blog.naver.com/ljwon77_/222140068840)|
+|  |Q5 feature|[📝](https://blog.naver.com/ljwon77_/222140131404)|
  ***
