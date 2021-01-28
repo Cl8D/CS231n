@@ -5,6 +5,7 @@
  ***
  ### 강의 정리✨
 |__Lecture__|__Name__|__Note__|
+|:---:|:---:|:---|
 |Lecture 1|Introduction|[📖](https://blog.naver.com/ljwon77_/222032524072)|
 |Lecture 2|Image Classification|[📖](https://blog.naver.com/ljwon77_/222037832826)|
 |Lecture 3|Loss function and Optimization|[📖](https://blog.naver.com/ljwon77_/222046271960)|
