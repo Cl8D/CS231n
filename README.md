@@ -5,7 +5,7 @@
  ***
  ### 강의 정리✨
 |__Lecture__|__Name__|__Note__|
-|:---:|:---:|:---|
+|:---:|:---:|:---:|
 |Lecture 1|Introduction|[📖](https://blog.naver.com/ljwon77_/222032524072)|
 |Lecture 2|Image Classification|[📖](https://blog.naver.com/ljwon77_/222037832826)|
 |Lecture 3|Loss function and Optimization|[📖](https://blog.naver.com/ljwon77_/222046271960)|
@@ -23,9 +23,11 @@
 
  
  ### Assignment 정리💫
- #### Assignment1 Q1 KNN : [Click](https://blog.naver.com/ljwon77_/222139197263)
- #### Assignment1 Q2 SVM : [Click](https://blog.naver.com/ljwon77_/222139728144)
- #### Assignment1 Q3 Softmax : [Click](https://blog.naver.com/ljwon77_/222139994988)
- #### Assignment1 Q4 two layer net : [Click](https://blog.naver.com/ljwon77_/222140068840)
- #### Assignment1 Q5 feature : [Click](https://blog.naver.com/ljwon77_/222140131404)
+|__Assignment__|__Name__|__Note__|
+|:---:|:---:|:---:|
+|Assignment1|Q1 KNN|[📝](https://blog.naver.com/ljwon77_/222139197263)|
+|Assignment1|Q2 SVM|[📝](https://blog.naver.com/ljwon77_/222139728144)|
+|Assignment1|Q3 Softmax|[📝](https://blog.naver.com/ljwon77_/222139994988)|
+|Assignment1|Q4 two layer net|[📝](https://blog.naver.com/ljwon77_/222140068840)|
+|Assignment1|Q5 feature|[📝](https://blog.naver.com/ljwon77_/222140131404)|
  ***
