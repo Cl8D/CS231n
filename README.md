@@ -30,4 +30,9 @@
 |  |Q3 Softmax|[📝](https://blog.naver.com/ljwon77_/222139994988)|
 |  |Q4 two layer net|[📝](https://blog.naver.com/ljwon77_/222140068840)|
 |  |Q5 feature|[📝](https://blog.naver.com/ljwon77_/222140131404)|
+|Assignment2|Q1 Fully-Conneted Neural Network|[📝](https://blog.naver.com/ljwon77_/222223407089)|
+|  |Q2 Batch Normalization|[📝](https://blog.naver.com/ljwon77_/222223436617)|
+|  |Q3 Dropout|[📝](https://blog.naver.com/ljwon77_/222223635623)|
+|  |Q4 Convolutional Networks|[📝](https://blog.naver.com/ljwon77_/222223934377)|
+
  ***
