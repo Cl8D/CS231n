@@ -19,6 +19,7 @@
 |Lecture 11|Detection and Segmentation|[📖](https://blog.naver.com/ljwon77_/222218454848)|
 |Lecture 12|Visualizing and Understanding|[📖](https://blog.naver.com/ljwon77_/222220046525)|
 |Lecture 13|Generative Models|[📖](https://blog.naver.com/ljwon77_/222221257434)|
+|Lecture 14|Reinforcement Learning|[📖](https://blog.naver.com/ljwon77_/222234526102)|
  ***
 
  
